@@ -18,7 +18,7 @@ This is a challenge for showing a users availability in time over a period of se
 
 ## Deployment
 
- [Live version](https://faithusor.netlify.app/)
+ [Live version]( https://unfairadvantage.netlify.app/)
 
 
 
