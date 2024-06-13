@@ -1,6 +1,6 @@
-# Challenge for Unfair Advantage
+# Availability
 
-This is a challenge for showing a users availability in time over a period of seven weeks 
+This is a website for showing a users availability in time over a period of seven weeks which can be shared with friends to plan hangouts
 
 ![screenshot](./screenshot.png)
 
